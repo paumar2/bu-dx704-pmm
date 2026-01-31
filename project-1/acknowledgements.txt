@@ -1,0 +1,1 @@
+For this assignment, I referenced the documentation on yfinance and cvxpy. Both of these were mentioned in the lecture notes, but I found it helpful to look at the documentation to better understand how to use it
