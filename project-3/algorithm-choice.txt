@@ -1,0 +1,1 @@
+I chose UCB because the arms produce noisy, stationary, continuous rewards with overlapping ranges and unknown means.
