@@ -1,0 +1,1 @@
+For this assignment, I was feeling a bit lost on LinUCB and used the following resources to clear up my confusion: https://chatgpt.com/share/69910f4f-6bb4-8007-9b81-4765820f3adb , https://arxiv.org/abs/1003.0146 , and https://www.youtube.com/watch?v=JmbEheH7gVw .
