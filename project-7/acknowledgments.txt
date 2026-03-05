@@ -1,0 +1,1 @@
+For this assignment, I referenced scipy's documentation on solve_discrete_are: https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.solve_discrete_are.html 
