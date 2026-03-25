@@ -1,0 +1,1 @@
+when working on this assignment, I referenced the following documentation/websites:https://docs.python.org/3/library/re.htmlhttps://medium.com/@thestatisticsassignmenth/a-beginners-guide-to-building-a-spam-classifier-with-python-and-scikit-learn-253663604e02
