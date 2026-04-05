@@ -1,1 +1,0 @@
-When working on this project, I references the following websites:https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.htmlhttps://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.htmlhttps://medium.com/swlh/truncated-singular-value-decomposition-svd-using-amazon-food-reviews-891d97af5d8d
