@@ -1,0 +1,6 @@
+query	target_category	predicted_category
+Water leaking from ceiling below attic	plumbing	roofing
+Ceiling light flickering in the bathroom shower	plumbing	electrical
+Roof drip above electrical panel	electrical	roofing
+Water heater issue by electrical panel	plumbing	electrical
+Water dripping from ceiling under attic	roofing	plumbing

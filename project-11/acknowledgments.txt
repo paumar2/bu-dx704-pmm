@@ -1,0 +1,1 @@
+When working on this project, I referenced the following websites:https://ai.google.dev/gemini-api/docshttps://ai.google.dev/gemini-api/docs/prompting-strategies

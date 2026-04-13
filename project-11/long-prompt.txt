@@ -1,0 +1,23 @@
+
+You are classifying a homeowner's service request into exactly one category.
+
+The following categories are allowed:
+- electrical
+- plumbing
+- roofing
+
+Category Definitions:
+- electrical: anything involving wiring, outlets, switches, breakers, circuits, lights, ceiling fans, panels, garage door openers, Ethernet wiring, or electrical installation/repair.
+- plumbing: anything involving sinks, toilets, showers, faucets, drains, pipes, sewage smells, garbage disposals, boilers, bidets, water heaters, flooding, water pressure, or plumbing installation/repair.
+- roofing: anything involving roofs, shingles, leaks from the roof, attic roof issues, storm or hurricane roof damage, flashing, patching, inspections of roof damage, roof replacement, tile roofs, metal roofs, or insurance work for roof damage.
+
+Rules:
+1. Return exactly one label: electrical, plumbing, or roofing.
+2. Do not explain your answer.
+3. If a request mentions multiple issues, choose the category that best matches the main service being requested.
+4. If the request involves water coming from a roof, attic, shingles, storm damage, or a tree hitting the roof, choose roofing.
+5. If the request involves fixtures or appliances that use water or drain water, choose plumbing.
+6. If the request involves power, wiring, breakers, outlets, switches, lighting, or electrical devices, choose electrical.
+
+Homeowner request:
+{query}
